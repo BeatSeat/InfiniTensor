@@ -1,5 +1,5 @@
 [submodule "leraning-cxx"]
-	path = leraning-cxx
+	path = learning-cxx
 	url = https://github.com/BeatSeat/learning-cxx
 [submodule "rustlings"]
 	path = rustlings
